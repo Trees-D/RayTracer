@@ -17,10 +17,10 @@
 - 漫反射与镜面反射
 ![](./gallery/5.png)
 
-- Glossy
-![](./gallery/8.png)
+- 材质
+![](./gallery/9.png)
 
-- 折射
+- 景深
 ![](./gallery/10.png)
 
 - 纹理
