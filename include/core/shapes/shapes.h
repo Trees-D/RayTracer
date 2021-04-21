@@ -1,5 +1,5 @@
 #ifndef DA_CORE_SHAPES_SHAPES_HEADER
-#define DA_CORE_SHAPES_HSAPES_HEADER
+#define DA_CORE_SHAPES_SHAPES_HEADER
 
 #include "core/shapes/shape.h"
 #include "core/shapes/record.h"
